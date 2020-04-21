@@ -31,7 +31,7 @@ The following **required** functionality is completed:
 
 - [x]	User logs in and is greeted by a welcome screen
 - [ ]	User picks what their desired genre/rating/company/etc. 
-- [ ]	User sees a screen full of games sort of like Netflix
+- [x]	User sees a screen full of games sort of like Netflix
 - [ ]	Add a comment section to each post sort of like Instagram 
 - [ ]	Add price to each game
 - [ ]	Create a “coming soon” menu for unreleased games
