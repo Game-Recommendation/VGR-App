@@ -60,7 +60,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Here's a walkthrough of Milestone 3:
 
-<img src='https://github.com/Game-Recommendation/VGR-App/blob/master/Parse%20Database%20Creation.gif?raw=true' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Game-Recommendation/VGR-App/blob/master/VGR%20Milestone%203%20Walkthrough.gif?raw=true' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
