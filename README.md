@@ -32,7 +32,7 @@ The following **required** functionality is completed:
 - [x]	User logs in and is greeted by a welcome screen
 - [ ]	User picks what their desired genre/rating/company/etc. 
 - [x]	User sees a screen full of games sort of like Netflix
-- [ ]	Add a comment section to each post sort of like Instagram 
+- [x]	Add a comment section to each post sort of like Instagram 
 - [ ]	Add price to each game
 - [ ]	Create a “coming soon” menu for unreleased games
 - [ ]	Settings (Accessibility, Notification, General, etc.)
@@ -55,6 +55,15 @@ Here's are a couple of walkthroughs of Milestone 1:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
+
+## Video Walkthrough Milestone 3
+
+Here's a walkthrough of Milestone 3:
+
+<img src='https://github.com/Game-Recommendation/VGR-App/blob/master/Parse%20Database%20Creation.gif?raw=true' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 
 
