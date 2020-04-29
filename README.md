@@ -55,6 +55,16 @@ Here's are a couple of walkthroughs of Milestone 1:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
+## Video Walkthrough Milestone 2
+
+Here's are a couple of walkthroughs of Milestone 2:
+
+<img src='https://github.com/Game-Recommendation/VGR-App/blob/master/VGR%20Milestone%202%20Walkthrough.gif?raw=true' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='https://github.com/Game-Recommendation/VGR-App/blob/master/VGR%20Milestone%202%20Walkthrough%20part%202.gif?raw=true' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 
 ## Video Walkthrough Milestone 3
 
