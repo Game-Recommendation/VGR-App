@@ -77,6 +77,15 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 
 
+## Video Walkthrough Milestone Final
+
+Here's a walkthrough of Final Milestone :
+
+<img src='https://github.com/Game-Recommendation/VGR-App/blob/master/VGR%20Milestone%20Final%20Walkthrough.gif?raw=true' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 ## Schema
 
 Here's a Schema for our data:
